@@ -1,0 +1,17 @@
+{
+  "name": "Fred",
+  "surname": "Rios",
+  "phones": [
+    "093-241-56-43",
+    "063­123­45­63"
+  ],
+  "sites": [
+    "http: //elbocon.pe",
+    "http: //rpp.pe"
+  ],
+  "address": {
+    "country": "Peru",
+    "city": "Ucayaly",
+    "street": "Coronel"
+  }
+}
